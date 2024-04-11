@@ -8,3 +8,6 @@ This repository hosts a collection of projects encompassing key Natural Language
 
 **MLP + AUTO ATTENTION (TRANSFORMER BASED):**
     - https://colab.research.google.com/drive/1oHP2Ynuj9NcVkdMu1eSsgPhi-EXBLv0E?usp=sharing
+
+**BERT Exercise - Fine tunning a pretrained model:**
+    - https://colab.research.google.com/drive/1g3pryIunkQ9q1Jh_6QNGWFH3PKZpwf_Z
