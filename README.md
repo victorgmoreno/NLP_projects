@@ -18,10 +18,6 @@ Each project is accompanied by links to Colab notebooks, allowing you to dive de
 
 To begin, simply explore the Colab links provided in each project folder. These notebooks will guide you through the theoretical background and practical coding exercises, helping you solidify your understanding of key NLP concepts.
 
----
-
-This version provides a clearer structure and emphasizes the progression from basic to advanced topics, making it more engaging for users.
-
 **BASIC CONCEPTS (START POINT):**
     - https://colab.research.google.com/drive/14mkvgz2xZRTo90k1HqydYVad5YhXi4zC?usp=sharing
 
