@@ -1,4 +1,26 @@
-This repository hosts a collection of projects encompassing key Natural Language Processing (NLP) architectures and processes, spanning from foundational concepts to cutting-edge algorithms. There are colab links to notebooks that will guide and help you understand by practicing the main concepts of NLP. 
+# Natural Language Processing (NLP) Projects and Experiments
+
+Welcome to the NLP Projects Repository! This repository is a comprehensive collection of projects and experiments that cover a wide range of Natural Language Processing (NLP) architectures and methodologies. Whether you're new to NLP or looking to explore advanced algorithms, you'll find valuable resources here.
+
+## Repository Overview
+
+This repository offers a journey through the world of NLP, starting with foundational concepts like Bag of Words and advancing to more complex experiments, including state-of-the-art techniques such as Retrieval-Augmented Generation (RAG). 
+
+Each project is accompanied by links to Colab notebooks, allowing you to dive deep into practical implementations and hands-on practice of the core NLP concepts.
+
+## Contents
+
+- **Foundational Concepts**: Start with the basics, such as tokenization, stemming, lemmatization, and Bag of Words models.
+- **Advanced Architectures**: Explore sophisticated models like Transformers, BERT, GPT, and their applications in various NLP tasks.
+- **Cutting-edge Experiments**: Delve into experiments with modern approaches, including RAG and other leading-edge algorithms.
+
+## Getting Started
+
+To begin, simply explore the Colab links provided in each project folder. These notebooks will guide you through the theoretical background and practical coding exercises, helping you solidify your understanding of key NLP concepts.
+
+---
+
+This version provides a clearer structure and emphasizes the progression from basic to advanced topics, making it more engaging for users.
 
 **BASIC CONCEPTS (START POINT):**
     - https://colab.research.google.com/drive/14mkvgz2xZRTo90k1HqydYVad5YhXi4zC?usp=sharing
